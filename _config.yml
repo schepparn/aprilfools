@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Gwen & Anders
   author__bio: 
-  author__avatar: '/images/avatar.jpg'
+  author__avatar: '/images/avatar.png'
 
 #social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
