@@ -29,8 +29,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Welcome!
-  hero__description: 
+  hero__title: Come on in!
+  hero__description: We´re AprilFoolz, a four person family living in a one-bedroom apartment crammed of possibilities. No joke.
   hero__image: '/images/20220401_084646.jpg'
 
 
