@@ -11,9 +11,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Gwen and Anders
+  author__name: Gwen & Anders
   author__bio: 
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/avatar.jpg'
 
 #social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
